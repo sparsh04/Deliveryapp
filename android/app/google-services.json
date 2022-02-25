@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "921939776910",
+    "project_id": "kissan-app-b3eee",
+    "storage_bucket": "kissan-app-b3eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921939776910:android:657142028eb42b76d6c0df",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921939776910-k34niv4368ea5vihiv9mbbqpses95hso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery",
+            "certificate_hash": "c8ed1ce98949f69c2d205ac1a11aac793210139f"
+          }
+        },
+        {
+          "client_id": "921939776910-jd5ntdvek8bbtdo7ufh1c0i47h00hb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgxUyAq-EQ73l_nUzoK3ikd6Z7eMTQHto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921939776910-jd5ntdvek8bbtdo7ufh1c0i47h00hb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921939776910:android:acf5174b444ce966d6c0df",
+        "android_client_info": {
+          "package_name": "com.example.my_kisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921939776910-gvcde1pvq6l39bvb6keuhc27hgv4d5tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_kisan",
+            "certificate_hash": "c8ed1ce98949f69c2d205ac1a11aac793210139f"
+          }
+        },
+        {
+          "client_id": "921939776910-nlbi7t9njhp5mud20eprr97kf557lp78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_kisan",
+            "certificate_hash": "05549f5368005411334d9b368ec9e9bc5462c2e5"
+          }
+        },
+        {
+          "client_id": "921939776910-jd5ntdvek8bbtdo7ufh1c0i47h00hb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgxUyAq-EQ73l_nUzoK3ikd6Z7eMTQHto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921939776910-jd5ntdvek8bbtdo7ufh1c0i47h00hb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
